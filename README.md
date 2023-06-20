@@ -1,0 +1,1 @@
+<img src="img\kruskal.png" height = "500px" width = "800px">
